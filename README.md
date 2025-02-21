@@ -1,4 +1,4 @@
-# 🏥 DBSCAN Medical Image Segmentation
+# 🏥 Medical Image Segmentation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -17,7 +17,7 @@ This project applies **DBSCAN (Density-Based Spatial Clustering of Applications 
     ```bash
     
       git clone https://github.com/mohcen-laalaoui/Medical-Image-Segmentation.git
-      cd DBSCAN-Medical-Image-Segmentation
+      cd Medical-Image-Segmentation
 
 ## 📊 Clustering Metrics
 After running DBSCAN, the project calculates:
